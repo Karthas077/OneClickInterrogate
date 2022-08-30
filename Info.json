@@ -1,0 +1,8 @@
+﻿{"Name":"OneClickInterrogate",
+"DisplayName":"One Click Interrogate",
+"GameVersion":1.177,"Version":1.0,
+"Desc":"Automatically asks an NPC about the personality/flaws/likes/etc. of all the members of their sect.\r\n\r\nOnly gets information on members you know about, and only asks things that could possibly be answered at 60 favor (so no mysteries).\r\n\r\nOnly provides information that the NPC knows, so you still need to interrogate multiple people.\r\n\r\nCurrently does not ask about location because of game constraints.",
+"Author":"karthas077",
+"Tags":["Function","ExcludeRealmsHeaven"],
+"IncreasedDesc":"1.0 : Initial Release",
+"ParentModInfo":["ModLoaderLite,4.1,heihei,ModLoaderLite,1997170546"]}
